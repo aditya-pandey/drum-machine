@@ -1,0 +1,15 @@
+{
+  "short_name": "Drum Machine",
+  "name": "React Drum Machine",
+  "icons": [
+    {
+      "src": "https://cdn3.iconfinder.com/data/icons/music-2-3/512/music-melody-sound-audio-04-64.png",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
